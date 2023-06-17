@@ -14,7 +14,6 @@ Join us on this illuminating journey and empower yourself with knowledge about d
 
 # Build from Sources and Run the Selenium Scraper
 
-
 1. Clone the repository
 ```bash
 git clone https://github.com/NasrinRipa/mastercourse_scraping_test.git
@@ -29,9 +28,12 @@ source venv/bin/activate
 pip install -r requirements.txt
 ```
 4. Download Chrome WebDrive from https://chromedriver.chromium.org/downloads
-
 5. Run the scraper
 ```bash
-python selenium_scraper/scraper.py --chromedriver_path <path_to_chromedriver>
+python selenium_scraper/scraper_suntable.py --chromedriver_path <path_to_chromedriver>
 ```
-6. You will get all the csv files in the csv_files folder and the codes in the selenium_scraper folder. 
+6. For cleaning and rearranging the table, use the data cleaning code
+```bash
+python selenium_scraper/cleaned_suntable.py 
+```
+7. You will get all the csv files in the csv_files folder and the codes in the selenium_scraper folder. 
