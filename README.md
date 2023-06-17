@@ -16,22 +16,22 @@ Join us on this illuminating journey and empower yourself with knowledge about d
 
 
 1. Clone the repository
-***bash
+'''bash
 git clone https://github.com/NasrinRipa/mastercourse_scraping_test.git
-***
+'''
 2. Intialize and activate virtual environment
-***bash
+'''bash
 virtualenv --no-site-packages  venv
 source venv/bin/activate
-***
+'''
 3. Install dependencies
-***bash
+'''bash
 pip install -r requirements.txt
-***
+'''
 4. Download Chrome WebDrive from https://chromedriver.chromium.org/downloads
 
 5. Run the scraper
-***bash
+'''bash
 python selenium_scraper/scraper.py --chromedriver_path <path_to_chromedriver>
-***
+'''
 6. You will get all the csv files in the csv_files folder and the codes in the selenium_scraper folder. 
