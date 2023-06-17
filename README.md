@@ -9,8 +9,9 @@ Why is this important, you ask? Well, the length of the day directly impacts var
 Join us on this illuminating journey and empower yourself with knowledge about daylengths and solar noon times in Dhaka, Bangladesh!
 
 # Website and Tableau Dashboards 
-We scrape data from a reliable source ( https://www.timeanddate.com/sun/bangladesh/dhaka ) and leverage Tableau to create captivating visualizations. 
-Dive into our interactive dashboards ( https://public.tableau.com/app/profile/nasrin.akter ) and witness the patterns and dynamics of Dhaka's daylight.
+We scrape data from a reliable [source](https://www.timeanddate.com/sun/bangladesh/dhaka) and leverage Tableau to create captivating visualizations. 
+
+Dive into our interactive [dashboards](https://public.tableau.com/app/profile/nasrin.akter) and witness the patterns and dynamics of Dhaka's daylight.
 
 # Build from Sources and Run the Selenium Scraper
 
