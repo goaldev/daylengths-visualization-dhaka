@@ -47,4 +47,4 @@ pip install -r requirements.txt
 ```
 4. Download Chrome WebDrive from https://chromedriver.chromium.org/downloads
 5. Run scraper_suntable.py for scraping data table from the website and for cleaning/rearranging the table, use cleaned_suntable.py 
-7. You will get the codes in the "selenium_scraper" folder and all the csv files in the "csv_files" folder. 
+6. The folder "selenium_scraper" contains 2 Python files for data scraping and data cleaning/rearranging, and all the csv files are in the "csv_files" folder.
