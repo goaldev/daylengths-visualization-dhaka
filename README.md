@@ -28,7 +28,7 @@ Therefore, if you track the solar noon time for consecutive days, you will notic
 
 2. We also see that there is a general correlation between the solar noon time and the daylengths. As the solar noon time progresses, the daylengths also increase gradually. 
 
-3. From the observation of 30 years data, we notice that Dhaka had majority amount of days having daylengths above 13 hours which indicates that Dhaka is highly suitable for implementing solar panels to resolve load shedding issue. 
+3. Based on the past 30 years (from 1992 to 2022) of data analysis, it is evident that Dhaka consistently experiences a significant number of days with daylengths exceeding 13 hours. This finding strongly suggests that Dhaka is an ideal location for the implementation of solar panels, offering a promising solution to combat the prevalent issue of load shedding.
 
 # Build from Sources and Run the Selenium Scraper
 
