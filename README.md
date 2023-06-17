@@ -1,4 +1,4 @@
-# mastercourse_scrapping_test
+# mastercourse_scraping_test
 
 
 Website for scrapping: https://www.timeanddate.com/sun/bangladesh/dhaka
