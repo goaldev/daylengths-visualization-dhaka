@@ -9,6 +9,29 @@ Why is this important, you ask? Well, the length of the day directly impacts var
 We scrape data from a reliable source ( https://www.timeanddate.com/sun/bangladesh/dhaka ) and leverage Tableau to create captivating visualizations. 
 Dive into our interactive dashboards ( https://public.tableau.com/app/profile/nasrin.akter ) and witness the patterns and dynamics of Dhaka's daylight.
 
-To get started, you'll need the selenium scraper, and the Chrome driver ( download link: https://chromedriver.storage.googleapis.com/index.html?path=113.0.5672.63/ ).
-
 Join us on this illuminating journey and empower yourself with knowledge about daylengths and solar noon times in Dhaka, Bangladesh!
+
+
+# Build from Sources and Run the Selenium Scraper
+
+
+1. Clone the repository
+***.bash 
+git clone https://github.com/NasrinRipa/mastercourse_scraping_test.git
+
+2. Intialize and activate virtual environment
+***.bash
+virtualenv --no-site-packages  venv
+source venv/bin/activate
+
+3. Install dependencies
+***.bash
+pip install -r requirements.txt
+
+4. Download Chrome WebDrive from https://chromedriver.chromium.org/downloads
+
+5. Run the scraper
+***.bash
+python selenium_scraper/scraper.py --chromedriver_path <path_to_chromedriver>
+
+6. You will get all the csv files in the csv_files folder and the codes in the selenium_scraper folder. 
