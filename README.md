@@ -13,6 +13,23 @@ We scrape data from a reliable [source](https://www.timeanddate.com/sun/banglade
 
 Dive into our interactive [dashboards](https://public.tableau.com/app/profile/nasrin.akter) and witness the patterns and dynamics of Dhaka's daylight.
 
+# Findings
+
+There is a relation between solar noon time and the number of days. Solar noon refers to the time of day when the sun is at its highest point in the sky. It is the moment when the sun crosses the observer's meridian.
+
+The position of the sun at solar noon varies throughout the year due to the tilt of the Earth's axis and its elliptical orbit around the sun. As a result, the solar noon time changes slightly each day.
+
+The relationship between solar noon time and the number of days is as follows: 
+
+1. As the number of days increases, the solar noon time gradually shifts. This shift can be observed over long periods, such as weeks, months, or seasons.
+The specific shift in solar noon time depends on factors such as the observer's location on Earth and the time of year. However, on average, the solar noon time tends to move forward by a few minutes each day.
+
+Therefore, if you track the solar noon time for consecutive days, you will notice a gradual change in the time as the number of days increases.
+
+2. We also see that there is a general correlation between the solar noon time and the daylengths. As the solar noon time progresses, the daylengths also increase gradually. 
+
+3. From the observation of 30 years data, we notice that Dhaka had majority amount of days having daylengths above 13 hours which indicates that Dhaka is highly suitable for implementing solar panels to resolve load shedding issue. 
+
 # Build from Sources and Run the Selenium Scraper
 
 1. Clone the repository
