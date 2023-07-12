@@ -8,12 +8,12 @@ Why is this important, you ask? Well, the length of the day directly impacts var
 
 Join us on this illuminating journey and empower yourself with knowledge about daylengths and solar noon times in Dhaka, Bangladesh!
 
-# Website and [Tableau Dashboards](https://public.tableau.com/app/profile/nasrin.akter) 
+## Website and [Tableau Dashboards](https://public.tableau.com/app/profile/nasrin.akter) 
 We scrape data from a reliable [source](https://www.timeanddate.com/sun/bangladesh/dhaka) and leverage Tableau to create captivating visualizations. 
 
 Dive into our interactive [dashboards](https://public.tableau.com/app/profile/nasrin.akter) and witness the patterns and dynamics of Dhaka's daylight.
 
-# Findings
+## Findings
 
 There is a relation between solar noon time and the number of days. Solar noon refers to the time of day when the sun is at its highest point in the sky. It is the moment when the sun crosses the observer's meridian.
 
@@ -30,7 +30,7 @@ Therefore, if you track the solar noon time for consecutive days, you will notic
 
 3. Based on the past 30 years (from 1992 to 2022) of data analysis, it is evident that Dhaka consistently experiences a significant number of days with daylengths exceeding 13 hours. This finding strongly suggests that Dhaka is an ideal location for the implementation of solar panels, offering a promising solution to combat the prevalent issue of load shedding.
 
-# Build from Sources and Run the Selenium Scraper
+### Build from Sources and Run the Selenium Scraper
 
 1. Clone the repository
 ```bash
@@ -48,3 +48,8 @@ pip install -r requirements.txt
 4. Download Chrome WebDrive from https://chromedriver.chromium.org/downloads
 5. Run scraper_suntable.py for scraping data table from the website and for cleaning/rearranging the table, use cleaned_suntable.py 
 6. The folder "selenium_scraper" contains 2 Python files for data scraping and data cleaning/rearranging, and all the csv files are in the "csv_files" folder.
+
+
+#### Acknowledgments
+
+I would like to express my heartfelt gratitude to [Mohammad Sabik Irbaz, MasterCourse Bangladesh], who played a pivotal role in the success of this project. Their expertise, guidance, and unwavering support were instrumental in shaping my skills and enabling me to complete this repository. I am truly grateful for their mentorship and valuable insights throughout this journey.
