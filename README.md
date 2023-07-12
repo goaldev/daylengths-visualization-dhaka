@@ -50,6 +50,6 @@ pip install -r requirements.txt
 6. The folder "selenium_scraper" contains 2 Python files for data scraping and data cleaning/rearranging, and all the csv files are in the "csv_files" folder.
 
 
-#### Acknowledgments
+### Acknowledgments
 
-I would like to express my heartfelt gratitude to [Mohammad Sabik Irbaz, MasterCourse Bangladesh], who played a pivotal role in the success of this project. Their expertise, guidance, and unwavering support were instrumental in shaping my skills and enabling me to complete this repository. I am truly grateful for their mentorship and valuable insights throughout this journey.
+I would like to express my heartfelt gratitude to Mohammad Sabik Irbaz, MasterCourse Bangladesh, who played a pivotal role in the success of this project. Their expertise, guidance, and unwavering support were instrumental in shaping my skills and enabling me to complete this repository. I am truly grateful for their mentorship and valuable insights throughout this journey.
