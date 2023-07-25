@@ -20,17 +20,6 @@ Dive into our mesmerizing dashboards through the links below, and witness the in
 📊 [Dashboard 4](https://public.tableau.com/views/DaylengthsinJan2023Dhaka/DaylengthSolarnoonJan2023?:language=en-US&:display_count=n&:origin=viz_share_link) - Specific focus on daylengths in January 2023.
 
 
-# Visualizing Daylengths and Solar Noon Times in Dhaka, Bangladesh 
-
-Welcome to the Visualizing Daylengths and Solar Noon Times repository for Dhaka, Bangladesh! 🌞📊
-
-Unleash the power of data visualization as we embark on a journey to explore the daylengths and solar noon times in the vibrant city of Dhaka. By visualizing this valuable information, we gain a clear vision of the abundance of daylight available in this bustling metropolis.
-
-Why is this important, you ask? Well, the length of the day directly impacts various aspects of our lives. Imagine harnessing the longest daylengths to collect sunlight, which serves as the lifeblood of solar panel systems. With this knowledge, we can pave the way for innovative solutions to address the pressing issue of load shedding in Dhaka, Bangladesh.
-
-Join us on this illuminating journey and empower yourself with knowledge about daylengths and solar noon times in Dhaka, Bangladesh!
-
-
 ## Findings
 
 There is a relation between solar noon time and the number of days. Solar noon refers to the time of day when the sun is at its highest point in the sky. It is the moment when the sun crosses the observer's meridian.
