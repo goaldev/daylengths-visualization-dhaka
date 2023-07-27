@@ -1,4 +1,5 @@
 Welcome to our repository and let's explore Dhaka's daylengths and solar noon times with captivating visualizations! 🌞📊
+![Solar noon times in Dhaka](solar noon time.png)
 
 Embark on an insightful journey as we unlock the power of data visualization to explore daylengths and solar noon times in the vibrant city of Dhaka. Through captivating visual representations, we gain a clear understanding of the abundance of daylight that graces this bustling metropolis.
 
